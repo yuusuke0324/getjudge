@@ -4,7 +4,7 @@
 }
 
 .top {
-    height: 70px;
+    height: 20%;
     font-size: 40px;
     text-align: center;
     padding: 20px;
@@ -56,6 +56,20 @@ header p {
 a {
     display: block;
 }
+a:hover{
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    background-color: brown;
+  }
+
+.button a:hover {
+
+    color: white;
+    font-weight: bold;
+    
+}
+
 #top {
     color: white;
   }
