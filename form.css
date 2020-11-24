@@ -55,6 +55,7 @@ header p {
 }
 a {
     display: block;
+    text-decoration: none;
 }
 a:hover{
     color: white;
@@ -73,3 +74,4 @@ a:hover{
 #top {
     color: white;
   }
+
