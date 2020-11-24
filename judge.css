@@ -13,6 +13,12 @@
     background-size: 30px;
 
 }
+body {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: auto;
+}
 header p {
     text-align: center;
 
@@ -24,31 +30,38 @@ header p {
     background-size: cover;
     background-image: url("judge.png");
 }
-.contents-p {
+.contents {
     border: solid 1px black;
     padding: 20px;
     margin: 5px 20px;
+    line-height: 30px;
+    background-color: palegoldenrod;
 
 }
-.button {
+.btn {
     border: solid 1px black;
     border-radius: 50px;
-    padding: 20px;
+    padding: 20px 55px;
     margin: 25px;
     text-align: center;
     font-size: 35px;
     background-color: brown;
     color: white;
+    display: inline-block;
 }
 a {
-    display: block;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
 }
 a:hover{
     color: white;
     cursor: pointer;
+    font-weight: bold;
+    background-color: brown;
   }
 
-.button a:hover {
+.btn a:hover {
 
     color: white;
     font-weight: bold;
@@ -67,3 +80,4 @@ a:hover{
 
 
 }
+  
