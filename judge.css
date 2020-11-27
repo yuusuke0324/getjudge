@@ -3,13 +3,34 @@
     margin: 0;
 }
 
-.top {
+.loop {
+    width: 800px;
+    height: 20%;
+    font-size: 40px;
+    background-image: url("judge.jpg");
+    background-size: 30px;
+    animation: loop 8s linear infinite;
+
+  }
+  @keyframes loop {
+    0% {
+      transform: translateX(100);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+
+ 
+
+
+
+#top {
     height: 20%;
     font-size: 40px;
     text-align: center;
     padding: 20px;
     margin: 0 20px;
-    background-image: url("judge.jpg");
     background-size: 30px;
 
 }
