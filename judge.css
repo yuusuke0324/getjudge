@@ -4,12 +4,12 @@
 }
 
 .loop {
-    width: 800px;
+    width: 100%;
     height: 20%;
     font-size: 40px;
     background-image: url("judge.jpg");
     background-size: 30px;
-    animation: loop 8s linear infinite;
+    animation: loop 3s linear infinite;
 
   }
   @keyframes loop {
@@ -17,14 +17,9 @@
       transform: translateX(100);
     }
     to {
-      transform: translateX(-50%);
+      transform: translateX(-20%);
     }
   }
-
- 
-
-
-
 #top {
     height: 20%;
     font-size: 40px;
@@ -32,7 +27,6 @@
     padding: 20px;
     margin: 0 20px;
     background-size: 30px;
-
 }
 body {
     width: 100%;
@@ -88,9 +82,6 @@ a:hover{
     font-weight: bold;
     
 }
-
-
-
 @media(min-width:500px){
     .img {
         height: 100vh;
@@ -98,7 +89,6 @@ a:hover{
         background-size: cover;
         background-image: url("judge.png");
     }
-
-
 }
+  
   
