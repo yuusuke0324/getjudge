@@ -42,9 +42,14 @@ Get：得よう　　＄：お金を　Judge：審判で
 具体的には、<br>
 - 場所
 - 大会の日程
-- 稼げる金額
+- 稼げる金額<br>
 が載っており、審判して稼ぎたい人が予約フォームから予約して当日参加するというもの。<br>
 
-直感的に使えるようにしました。<br>
-①画像カードをクリック
-②
+このサービスは、直感的に使えるようにしました。<br>
+①画像カードをクリック<br>
+<img width="461" alt="スクリーンショット 2020-12-03 22 32 25" src="https://user-images.githubusercontent.com/72149371/101024424-6c77a600-35b7-11eb-9528-1110fef9f503.png">
+
+②予約者情報を入力<br>
+<img width="461" alt="スクリーンショット 2020-12-03 22 33 07" src="https://user-images.githubusercontent.com/72149371/101024508-86b18400-35b7-11eb-984e-2c9724822d95.png">
+③予約完了<br>
+<img width="461" alt="スクリーンショット 2020-12-03 22 41 00" src="https://user-images.githubusercontent.com/72149371/101025228-a1d0c380-35b8-11eb-8dfb-7e98fc5246d7.png">
