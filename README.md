@@ -132,10 +132,12 @@ Get $ Judgeは、スポーツ大会の審判マッチングサービスです。
 <img width="461" alt="スクリーンショット 2020-12-03 23 41 59" src="https://user-images.githubusercontent.com/72149371/101043014-26274480-35c1-11eb-8fe7-ecb88781b4a9.png">
 
 これをこのように改善しました。<br>
-<img width="412" alt="スクリーンショット 2020-12-04 6 03 05" src="https://user-images.githubusercontent.com/72149371/101088004-6228cc80-35f6-11eb-88bc-f1bba79129d8.png">
-<img width="412" alt="スクリーンショット 2020-12-04 6 03 58" src="https://user-images.githubusercontent.com/72149371/101088106-82588b80-35f6-11eb-856a-05261370b9d6.png">
 
-<img width="412" alt="スクリーンショット 2020-12-04 6 04 38" src="https://user-images.githubusercontent.com/72149371/101088173-9a300f80-35f6-11eb-934e-df2da4f4b644.png">
+<img width="412" alt="スクリーンショット 2020-12-04 6 06 12" src="https://user-images.githubusercontent.com/72149371/101088299-d4011600-35f6-11eb-8e2a-c22aa6e54079.png">
+
+<img width="412" alt="スクリーンショット 2020-12-04 6 07 15" src="https://user-images.githubusercontent.com/72149371/101088377-f72bc580-35f6-11eb-90fd-c91eb95a6136.png">
+
+<img width="412" alt="スクリーンショット 2020-12-04 6 07 45" src="https://user-images.githubusercontent.com/72149371/101088418-090d6880-35f7-11eb-9459-789f8b399914.png">
 
 
 
