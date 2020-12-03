@@ -132,9 +132,13 @@ Get $ Judgeは、スポーツ大会の審判マッチングサービスです。
 <img width="461" alt="スクリーンショット 2020-12-03 23 41 59" src="https://user-images.githubusercontent.com/72149371/101043014-26274480-35c1-11eb-8fe7-ecb88781b4a9.png">
 
 これをこのように改善しました。<br>
-<img width="461" alt="スクリーンショット 2020-12-03 23 46 10" src="https://user-images.githubusercontent.com/72149371/101043497-bbc2d400-35c1-11eb-8bc5-62e68691beb6.png">
+<img width="412" alt="スクリーンショット 2020-12-04 6 03 05" src="https://user-images.githubusercontent.com/72149371/101088004-6228cc80-35f6-11eb-88bc-f1bba79129d8.png">
+<img width="412" alt="スクリーンショット 2020-12-04 6 03 58" src="https://user-images.githubusercontent.com/72149371/101088106-82588b80-35f6-11eb-856a-05261370b9d6.png">
 
-<img width="461" alt="スクリーンショット 2020-12-03 23 59 34" src="https://user-images.githubusercontent.com/72149371/101045410-9a62e780-35c3-11eb-9a70-660d35b6aaf9.png">
+<img width="412" alt="スクリーンショット 2020-12-04 6 04 38" src="https://user-images.githubusercontent.com/72149371/101088173-9a300f80-35f6-11eb-934e-df2da4f4b644.png">
+
+
+
 
 改善に当たって意識した点は、**一目でユーザーに情報が伝わるか**という点。<br>
 
