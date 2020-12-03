@@ -6,7 +6,7 @@ Get：得よう　　＄：お金を　Judge：審判で
 
 と、サービス名を設定することで、一瞬で「審判でお金を稼ぐサービス」というのがわかるようにしました。
 
-<img width="461" alt="スクリーンショット 2020-12-03 21 56 55" src="https://user-images.githubusercontent.com/72149371/101021082-c88bfb80-35b2-11eb-9ab9-0817fa7a12f5.png">
+<img width="270" alt="スクリーンショット 2020-12-03 21 56 55" src="https://user-images.githubusercontent.com/72149371/101021212-fa9d5d80-35b2-11eb-83f2-309b3dff7e27.png">
 
 今から、作成したサービスについて詳しく解説していきます。
 
