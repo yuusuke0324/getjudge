@@ -2,7 +2,6 @@
     padding: 0;
     margin: 0;
 }
-
 .loop {
     width: 100%;
     height: 20%;
@@ -10,7 +9,6 @@
     background-image: url("judge.jpg");
     background-size: 30px;
     animation: loop 3s linear infinite;
-
   }
   @keyframes loop {
     0% {
@@ -36,9 +34,7 @@ body {
 }
 header p {
     text-align: center;
-
 }
-
 .img {
     height: 300px;
     width: 100%;
@@ -51,7 +47,6 @@ header p {
     margin: 5px 20px;
     line-height: 30px;
     background-color: palegoldenrod;
-
 }
 .btn {
     border: solid 1px black;
@@ -82,12 +77,48 @@ a:hover{
     font-weight: bold;
     
 }
-@media(min-width:500px){
+/* 767px以下の表示画面 */
+@media(max-width:767px){
     .img {
-        height: 100vh;
+        background-position: center center;
+        text-align: center;
+        height: 500px;
         width: 100%;
         background-size: cover;
         background-image: url("judge.png");
+    }
+    header p {
+        font-size: 20lem;
+    }
+   
+    .btn {
+        display: block;
+        margin: 20px 50px;
+        
+       
+    }
+}
+/* 768px以上の表示画面 */
+@media(min-width:768px){
+    .img {
+        float: left;
+        box-sizing: border-box;
+        height: 500px;
+        width: 50%;
+        margin-left: 0;
+        background-size: cover;
+        background-image: url("judge.png");
+    }
+    .contents {
+        box-sizing: border-box;
+        width: 50%;
+        height: 300px;
+        line-height: 40px;
+        margin-left: auto;
+        font-size: 1.9em;
+    }
+    .contents-p {
+        padding-bottom: 10px;
     }
 }
   
