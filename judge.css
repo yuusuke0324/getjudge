@@ -1,117 +1,58 @@
 * {
-    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    padding: 30px 4% 10px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+}
+h1 {
     margin: 0;
+    padding: 0;
+    font-size: 20px;
+    color: #000000;
 }
-.heading {
-  width: 110%;
-  font-size: 40px;
-  position: relative;
-  padding: 1rem 2rem calc(1rem + 10px);
-  background: #fff100;
+head-sub {
+    text-decoration: none;
+    font-size: 18px;
+    color: #000000;
 }
-.heading:before {
-  position: absolute;
-  top: -7px;
-  left: -7px;
-  width: 100%;
-  height: 100%;
-  content: '';
-  border: 4px solid #000;
+ul {
+    list-style: none;
+    margin: 0;
+    display: flex;
 }
-.loop1 {
-    width: 200%;
-    height: 50px;
-    background-image: url("judge.jpg");
-    background-size: 30px;
-    animation: loop1 3s linear infinite;
-  }
-  @keyframes loop1 {
-    0% {
-      transform: translateX(100);
-    }
-    to {
-      transform: translateX(-20%);
-    }
-  }
-
-.loop1 img {
-    height: 20%;
-    font-size: 40px;
-    text-align: center;
-    background-size: 30px;
+li {
+    margin: 0 0 0 15px;
+    font-size: 14px;
 }
-.loop2 {
-    width: 200%;
-    height: 50px;
-    background-image: url("judge.jpg");
-    background-size: 30px;
-    animation: loop2 3s linear infinite;
-  }
-  @keyframes loop2 {
-    0% {
-      transform: translateX(100);
-    }
-    to {
-      transform: translateX(-20%);
-    }
-  }
-
-.loop2 img {
-    height: 20%;
-    font-size: 40px;
-    text-align: center;
-    background-size: 30px;
+nav {
+    margin: 0 margin 0 0;
 }
 body {
-    width: 100%;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin: auto;
+    margin: 0;
+    padding: 0;
+    font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", メイリオ, Meiryo, "ＭＳ Ｐゴシック", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #e6e6e6;
+    overflow-x: hidden;
 }
-header p {
-    text-align: center;
+.main-flame {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('judge.jpg') top center / cover no-repeat;
+    background-size: 100% auto;
 }
-.img {
-    height: 300px;
-    width: 100%;
-    background-size: cover;
-    background-image: url("judge.png");
-}
-.contents {
-    border: solid 1px black;
-    padding: 20px;
-    margin: 5px 20px;
-    line-height: 30px;
-    background-color: palegoldenrod;
-}
-.btn {
-    border: solid 1px black;
-    border-radius: 50px;
-    padding: 20px 55px;
-    margin: 25px;
-    text-align: center;
-    font-size: 35px;
-    background-color: brown;
-    color: white;
-    display: inline-block;
-}
-a {
-    display: inline-block;
-    text-decoration: none;
-    color: white;
-}
-a:hover{
-    color: white;
-    cursor: pointer;
-    font-weight: bold;
-    background-color: brown;
-  }
-
-.btn a:hover {
-
-    color: white;
-    font-weight: bold;
-
+h2 {
+   margin: 0;
+   font-size: 30px;
+   font-weight: normal;
+   color: #fff;
 }
 /* 767px以下の表示画面 */
 @media(max-width:767px){
@@ -124,7 +65,7 @@ a:hover{
         background-image: url("judge.png");
     }
     header p {
-        font-size: 20lem;
+        font-size: 60%;
     }
 
     .btn {
